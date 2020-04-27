@@ -25,7 +25,7 @@ client.connect("mqtt.flespi.io", 1883, 60)
 
 
 data = {
-    "name": "Pizzaria 2", 
+    "name": "Pizza Company 1", 
     "pizza_list" :["Vegetarian", "Salami"], 
     "topic": "hshl/company/company1"
     }
