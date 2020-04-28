@@ -20,8 +20,7 @@ client = mqtt.Client()
 client.on_connect = on_connect
 client.on_message = on_message
 
-client.username_pw_set("FlespiToken HrgInVHyjGwFVFt4ykQuQKlLY4uc5oBCDHaRqGdxcx2W2lQovuJa2ULRM5RGhi8L")
-client.connect("mqtt.flespi.io", 1883, 60)
+client.connect("test.mosquitto.org", 1883, 60)
 
 
 data = {
