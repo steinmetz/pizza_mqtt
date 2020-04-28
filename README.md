@@ -1,2 +1,2 @@
 # HSHL Pizza MQTT
-Example of mqtt communication for the ITD lecture.
+Example of mqtt communication for the ITD exercise.
